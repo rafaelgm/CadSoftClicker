@@ -23,7 +23,6 @@ function pad(str, max)
 
     $('input[type="checkbox"]').click(function() {
         var checked = $(this).is(":checked");
-
         var text = $(this).attr("id").split("_");
         for (var c = 0; c < nChecks; c++)
         {
