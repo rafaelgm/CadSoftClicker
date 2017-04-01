@@ -2,7 +2,7 @@
 // @name         CadSoftClicker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Script que (des)marca automaticamente as demais faltas em uma mesma aula.
+// @description  Script que (des)marca automaticamente as demais faltas em uma mesma aula no sistema do CadSoft.
 // @author       Rafael Monteiro
 // @match        http://netaplw.unifeso.edu.br/UniversusNet/DigitacaoFaltasDiarias.aspx
 // @grant        none
