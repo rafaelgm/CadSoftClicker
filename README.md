@@ -7,7 +7,8 @@ Testado apenas no Google Chrome, com a extensão Tampermonkey.
 
 1. Instalar a extensão [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt-BR).
 2. Após instalado, clicar no ícone do Tampermonkey e selecionar "Adicionar novo script..."
-3. Copiar/colar o código do arquivo *CadSoftClicker.user.js*, existente aqui no repositório.
+3. Substituir o código existente pelo código do arquivo *CadSoftClicker.user.js*, existente aqui no repositório.
+4. Clicar no ícone de *salvar* (CTRL+S)
 
 **Uso**
 
