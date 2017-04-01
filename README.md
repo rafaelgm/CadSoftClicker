@@ -1,7 +1,7 @@
 # CadSoftClicker
-Script que (des)marca automaticamente as demais faltas em uma mesma aula no sistema do CadSoft
+Script que (des)marca automaticamente as demais faltas em uma mesma aula no sistema do CadSoft.
 
-Testado apenas no Google Chrome, com a extensão Tampermonkey.
+AVISO: O script foi testado apenas no Google Chrome, usando a extensão Tampermonkey.
 
 **Instalação**
 
