@@ -12,7 +12,7 @@ AVISO: O script foi testado apenas no Google Chrome, usando a extensão Tampermo
 
 **Uso**
 
-Ao selecionar a opção *Digitação de Faltas Diárias* (no modo *Selecionar Faltas*), basta marcar e/ou desmarcar uma falta, e as demais faltas daquela mesma aula serão automaticamente marcadas e/ou desmarcadas.
+Ao selecionar a opção *Digitação de Faltas Diárias* (no modo *Selecionar Faltas*), basta marcar e/ou desmarcar uma falta, e as demais faltas daquela mesma aula serão automaticamente marcadas e/ou desmarcadas. CTRL+clique irá marcar/desmarcar a linha inteira.
 
 **Termo de uso**
 
